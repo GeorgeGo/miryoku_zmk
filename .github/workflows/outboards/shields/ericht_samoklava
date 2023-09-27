@@ -1,0 +1,8 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=GeorgeGo/zmk-config
+outboard_ref=development
+outboard_from=config/boards/shields/ericht_samoklava
+outboard_to=boards/shields/ericht_samoklava
+
