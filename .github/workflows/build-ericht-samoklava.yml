@@ -9,4 +9,4 @@ jobs:
     secrets: inherit
     with:
       board: '["nice_nano_V2"]'
-      shield: '["ericht_samoklava_left", "ericht_samoklava_right"]'
+      shield: '["ericht_samoklava", "ericht_samoklava_right"]'
