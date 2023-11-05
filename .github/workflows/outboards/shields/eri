@@ -3,6 +3,6 @@
 
 outboard_repository=GeorgeGo/zmk-config
 outboard_ref=development
-outboard_from=config/boards/shields/ericht_samoklava
-outboard_to=boards/shields/ericht_samoklava
+outboard_from=config/boards/shields/eri
+outboard_to=boards/shields/eri
 

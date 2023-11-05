@@ -1,7 +1,7 @@
 # Copyright 2023 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: "Build Erict Samoklava"
+name: "Build Eri"
 on: workflow_dispatch
 jobs:
   build:
@@ -9,4 +9,4 @@ jobs:
     secrets: inherit
     with:
       board: '["nice_nano_V2"]'
-      shield: '["ericht_samoklava", "ericht_samoklava_right"]'
+      shield: '["eri", "eri_left"]'
