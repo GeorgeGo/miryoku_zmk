@@ -8,5 +8,5 @@ jobs:
     uses: ./.github/workflows/main.yml
     secrets: inherit
     with:
-      board: '["nice_nano_V2"]'
-      shield: '["eri", "eri_left"]'
+      board: '["nice_nano_v2"]'
+      shield: '["rae_dux_left", "rae_dux_right"]'
