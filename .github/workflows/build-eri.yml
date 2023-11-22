@@ -2,7 +2,7 @@
 # https://github.com/manna-harbour/miryoku
 
 name: "Build Eri"
-on: workflow_dispatch
+on: [workflow_dispatch, push]
 jobs:
   build:
     uses: ./.github/workflows/main.yml
